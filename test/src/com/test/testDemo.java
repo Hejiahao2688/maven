@@ -5,15 +5,21 @@ public interface testDemo {
 	
 	/**
 	 * 
-	 * µÚÒ»´ÎÌá½»´úÂë
+	 * ç¬¬ä¸€æ¬¡æäº¤ä»£ç 
 	 */
 	
 	void test1();
 	
 	/**
 	 * 
-	 * Ìí¼ÓÁËÒ»¸öhelloworld·½·¨
+	 * åˆ›å»ºäº†ä¸€ä¸ªæ–°çš„æ–¹æ³•helloworld
 	 */
 	
 	void helloworld();
+	
+	/**
+	 * åˆæ·»åŠ ä¸€ä¸ªæ–¹æ³•
+	 */
+	
+	void aa();
 }
