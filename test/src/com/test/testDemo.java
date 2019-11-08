@@ -9,4 +9,11 @@ public interface testDemo {
 	 */
 	
 	void test1();
+	
+	/**
+	 * 
+	 * 添加了一个helloworld方法
+	 */
+	
+	void helloworld();
 }
