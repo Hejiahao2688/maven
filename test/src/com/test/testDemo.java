@@ -22,4 +22,10 @@ public interface testDemo {
 	 */
 	
 	void aa();
+	
+	/**
+	 * 其他人创建一个新的方法
+	 */
+	
+	void bb();
 }
